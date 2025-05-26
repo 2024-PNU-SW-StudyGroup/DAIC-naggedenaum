@@ -66,7 +66,6 @@ Notion, Google Calendar 등과 연동 기능 제공
 문서 내 민감 정보 보호를 위한 Differential Privacy 적용
 
 회사/기관 내 인트라넷 기반 개인화된 서비스 제공 고려 
-UI를 Grok(Gemini Advanced) 스타일로 구성하고자 한다면, 다음과 같은 방향을 추천합니다:
 
 전체 화면 기반의 간결한 UI
 
